@@ -33,5 +33,12 @@ Install these
 
 You can access the website by going to http://localhost/Codam_Analytics/site and you can use the scripty by running 
 ```
-	python collect.py
+python collect.py
 ```
+
+## Citation
+
+### APA
+  ```
+	Salmon, Dan. (2019). Venmo Transaction Dataset [Dataset]. Retrieved from https://github.com/sa7mon/venmo-data
+  ```
