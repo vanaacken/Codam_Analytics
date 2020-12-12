@@ -5,6 +5,7 @@ client = pymongo.MongoClient("mongodb://localhost:27017/")
 db = client["test"]
 # Collection Name
 col = db["venmo"]
+#fields
 username	= "payment.actor.username"
 first_name	= "payment.actor.first_name"
 last_name	= "payment.actor.last_name"
