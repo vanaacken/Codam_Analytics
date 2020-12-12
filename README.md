@@ -1,6 +1,6 @@
 # Codam_Analytics
 
-For this project we used a venmo dataset
+For this project we used a venmo dataset to reveal some spooky public information 👻
 
 
 ### Prerequisites
@@ -17,7 +17,9 @@ Install these
 * MAMP
 	https://www.mamp.info/en/mac/
 * Venmo-data
+  ```
 	follow the installation on https://github.com/sa7mon/venmo-data
+  ```
 	
 ### Installation
 
@@ -29,4 +31,7 @@ Install these
 
 ## Usage
 
-You can access the website by going to http://localhost/Codam_Analytics/site
+You can access the website by going to http://localhost/Codam_Analytics/site and you can use the scripty by running 
+```
+	python collect.py
+```
