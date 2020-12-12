@@ -2,8 +2,6 @@
 
 For this project we used a venmo dataset
 
-https://github.com/sa7mon/venmo-data
-
 
 ### Prerequisites
 
@@ -19,7 +17,7 @@ Install these
 * MAMP
 	https://www.mamp.info/en/mac/
 * Venmo-data
-	follow the installation on their github
+	follow the installation on https://github.com/sa7mon/venmo-data
 	
 ### Installation
 
